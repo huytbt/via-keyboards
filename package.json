@@ -49,7 +49,7 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^3.6.4",
     "typescript-json-schema": "^0.40.0",
-    "via-reader": "https://github.com/the-via/reader.git#118221e19054de2f04805042ebde33d64d84b005",
+    "via-reader": "git://github.com/the-via/reader.git#118221e19054de2f04805042ebde33d64d84b005",
     "yarn": "^1.22.0"
   }
 }
